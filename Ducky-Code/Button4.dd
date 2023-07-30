@@ -1,0 +1,9 @@
+DELAY 100
+GUI R
+DELAY 800
+STRING notepad
+ENTER
+DELAY 1000
+STRING Devive Was Made By Hacker Nowful
+ENTER
+
