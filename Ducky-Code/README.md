@@ -16,7 +16,7 @@ That it Your Ready to Goooo. Your Button Rubber Ducky is Ready</p>
 <br>
 <h3 align="center">Circuit Connection</h3>
 <br>
-<img src="Flasher/images/pico-Button-circuit.png" alt="hackernowful" />
+<img src="/Flasher/images/pico-Button-circuit.png" alt="hackernowful" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackernowful&label=Profile%20views&color=0e75b6&style=flat" alt="hackernowful" /> </p>
