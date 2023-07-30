@@ -12,6 +12,7 @@ Its automatically change the name to Circuit Python,
 Then Copy that <b>Ducky-Code</b> Folders Inside file then paste that all files into Pico then look that circuit connection to make an Button connection as per the circuit
 That it Your Ready to Goooo. Your Button Rubber Ducky is Ready</p>
 <br>
+<p align="left"><b><strong>To Launch the Rubber Ducky just Hold the Button Which Script you want to Perform .. Hold a Button And Connect the Pico Ducky To Your Devices To Emulate an Keystroke </strong></b></p>
 <br>
 <h3 align="center">Circuit Connection</h3>
 <br>
