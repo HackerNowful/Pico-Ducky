@@ -6,6 +6,7 @@ Pico-Ducky with an Button based Key Stroke Injecting
 <h3 align="center">Installation & Setup</h3>
 Download A file From this Link https://github.com/HackerNowful/Pico-Ducky
 <br>
+![Packet monitor circuit](https://github.com/HackerNowful/ESP8266-Packet-Monitor/assets/124292739/e854386d-f48c-4211-9712-26e2c4bace39)
 <p align="left"> Then Plug Your Pico to your pc or laptop then open the downloaded file 
 Goto the <b>Flasher</b> Folder Copy that <b>adafruit-circuitpython-raspberry_pi_pico-en_US-8.2.0.uf2</b> file into your Pico
 Its automatically change the name to Circuit Python,
